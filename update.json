@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "lm-civitai-extension@willmiao.shop": {
+      "updates": [
+        {
+          "version": "0.3.2",
+          "update_link": "https://github.com/willmiao/lm-civitai-extension-firefox/releases/download/v0.3.2/extension.xpi"
+        }
+      ]
+    }
+  }
+}
