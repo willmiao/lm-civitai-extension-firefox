@@ -16,7 +16,7 @@ The **LoRA Manager Civitai Extension** is a Browser extension designed to work s
   </a>
 </div>
 
-*Note: Firefox may show a warning for self-distributed extensions. Click "Continue to Installation" to proceed.*
+*Note: This is a self-distributed extension that has been reviewed and verified by Mozilla. Self-distribution simply means the extension is distributed directly by the developer rather than through the Firefox Add-on store.*
 
 ![Civitai Models page](https://github.com/willmiao/ComfyUI-Lora-Manager/blob/main/wiki-images/civitai-models-page.png) 
 
