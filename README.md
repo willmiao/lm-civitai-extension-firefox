@@ -2,9 +2,10 @@
 
 The **LoRA Manager Civitai Extension** is a Browser extension designed to work seamlessly with [LoRA Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) to significantly enhance your browsing experience on [Civitai](https://civitai.com). With this extension, you can:
 
-✅ **Instantly see which models are already present in your local library** (Free for all users)  
-🔒 Download new models with a single click *(Supporters only)*  
-🔒 Manage downloads efficiently with queue and parallel download support *(Supporters only)*
+✅ Instantly see which models are already present in your local library  
+✅ Download new models with a single click  
+✅ Manage downloads efficiently with queue and parallel download support  
+✅ Keep your downloaded models automatically organized according to your custom settings    
 
 ## Installation
 
