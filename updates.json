@@ -101,6 +101,10 @@
         {
           "version": "0.5.6",
           "update_link": "https://github.com/willmiao/lm-civitai-extension-firefox/releases/download/v0.5.6/extension.xpi"
+        },
+        {
+          "version": "0.5.7",
+          "update_link": "https://github.com/willmiao/lm-civitai-extension-firefox/releases/download/v0.5.7/extension.xpi"
         }
       ]
     }
